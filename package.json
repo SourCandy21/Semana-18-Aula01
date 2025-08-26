@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage": "https://seu-usuario.github.io/minha-aplicacao",
+    "homepage": "https://github.com/SourCandy21/Semana-18-Aula01.git",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
